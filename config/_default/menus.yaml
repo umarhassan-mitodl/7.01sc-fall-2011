@@ -1,0 +1,160 @@
+leftnav:
+- identifier: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 94075d21-fac8-2243-1255-482464d464cb
+  name: Meet the Instructors
+  pageRef: /pages/syllabus/meet-the-instructors
+  parent: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
+  weight: 20
+- identifier: 31b32df7-381e-729e-4a9e-93597670dfd1
+  name: Meet the TAs
+  pageRef: /pages/syllabus/meet-the-tas
+  parent: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
+  weight: 30
+- identifier: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  name: Biochemistry
+  pageRef: /pages/biochemistry/
+  weight: 40
+- identifier: bc34ebcb-2d80-7a50-fe34-0b8778b4836e
+  name: Types of Organisms, Cell Composition
+  pageRef: /pages/biochemistry/types-of-organisms-cell-composition
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 50
+- identifier: 744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7
+  name: Covalent Bonds, Hydrogen Bonds
+  pageRef: /pages/biochemistry/covalent-bonds-hydrogen-bonds
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 60
+- identifier: dbb23892-11b1-a4f7-596b-adacfbfc68bf
+  name: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
+  pageRef: /pages/biochemistry/macromolecules-lipids-carbohydrates-nucleic-acid
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 70
+- identifier: 480f15d7-bdab-9947-028a-c0770af7091e
+  name: Proteins, Levels of Structure, Non-Covalent Forces
+  pageRef: /pages/biochemistry/proteins-levels-of-structure-non-covalent-forces
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 80
+- identifier: bd3cadf9-7b4d-db1e-b647-150dd3af6877
+  name: Biochemical Reactions, Enzymes and ATP
+  pageRef: /pages/biochemistry/biochemical-reactions-enzymes-and-atp
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 90
+- identifier: 3998b78c-9a61-3c82-442f-d3aae9f91274
+  name: Respiration and Fermentation
+  pageRef: /pages/biochemistry/respiration-and-fermentation
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 100
+- identifier: 21ec09e3-3607-ce4c-8530-a4a4a138a48f
+  name: Chemiosmotic Principle, Photosynthesis
+  pageRef: /pages/biochemistry/chemiosmotic-principle-photosynthesis
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 110
+- identifier: 1dea315f-4392-12b8-84ba-e05ff4797b1e
+  name: Exam 1
+  pageRef: /pages/biochemistry/exam-1
+  parent: 59c0ffb4-f444-c63f-f21a-576415d7231d
+  weight: 120
+- identifier: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
+  name: Molecular Biology
+  pageRef: /pages/molecular-biology/
+  weight: 130
+- identifier: 95026c63-e557-0d98-9ab2-ebdcc99b4dfd
+  name: DNA Structure, Classic Experiments
+  pageRef: /pages/molecular-biology/dna-structure-classic-experiments
+  parent: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
+  weight: 140
+- identifier: 5d6487db-6d13-2ae2-f9e6-285a269f3404
+  name: DNA Replication
+  pageRef: /pages/molecular-biology/dna-replication
+  parent: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
+  weight: 150
+- identifier: 5e1363df-9828-a8e6-52b1-b90916e83b46
+  name: Transcription, Translation
+  pageRef: /pages/molecular-biology/transcription-translation
+  parent: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
+  weight: 160
+- identifier: 6de3012a-82fd-d2a9-25a8-3b85e01dba3d
+  name: Alternative Approaches to Molecular Biology
+  pageRef: /pages/molecular-biology/alternative-approaches-to-molecular-biology
+  parent: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
+  weight: 170
+- identifier: b312d8ee-70ad-db9a-2f22-34a16a004e3f
+  name: Gene Regulation and the Lac Operon
+  pageRef: /pages/molecular-biology/gene-regulation-and-the-lac-operon
+  parent: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
+  weight: 180
+- identifier: 98cc6601-8736-3777-3cbf-aacbf1c527df
+  name: Exam 2
+  pageRef: /pages/molecular-biology/exam-2
+  parent: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
+  weight: 190
+- identifier: 2cd32ce3-922b-637b-26b8-13233170eb1c
+  name: Genetics
+  pageRef: /pages/genetics/
+  weight: 200
+- identifier: 17d9f692-5f70-69f8-8155-be10fa8fa862
+  name: Mendel's Laws
+  pageRef: /pages/genetics/mendels-laws
+  parent: 2cd32ce3-922b-637b-26b8-13233170eb1c
+  weight: 210
+- identifier: 06e0b88b-6715-9f8b-06c3-dbe3474bcaed
+  name: Linkage and Recombination, Genetic Maps
+  pageRef: /pages/genetics/linkage-and-recombination-genetic-maps
+  parent: 2cd32ce3-922b-637b-26b8-13233170eb1c
+  weight: 220
+- identifier: 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d
+  name: Pedigrees
+  pageRef: /pages/genetics/pedigrees
+  parent: 2cd32ce3-922b-637b-26b8-13233170eb1c
+  weight: 230
+- identifier: 4239d3cb-c2e6-6fa7-9750-7ed884c8c657
+  name: Biochemical Genetics
+  pageRef: /pages/genetics/biochemical-genetics
+  parent: 2cd32ce3-922b-637b-26b8-13233170eb1c
+  weight: 240
+- identifier: 87a11a60-4039-cc5e-e616-1303df9f2adb
+  name: Exam 3
+  pageRef: /pages/genetics/exam-3
+  parent: 2cd32ce3-922b-637b-26b8-13233170eb1c
+  weight: 250
+- identifier: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
+  name: Recombinant DNA
+  pageRef: /pages/recombinant-dna/
+  weight: 260
+- identifier: 80ef79a7-dab2-b9c7-0a69-4b5b5192cc36
+  name: Development of Recombinant DNA
+  pageRef: /pages/recombinant-dna/development-of-recombinant-dna
+  parent: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
+  weight: 270
+- identifier: 48a4a332-6cd9-0d0e-1436-d2c0b4637e30
+  name: Basic Mechanics of Cloning
+  pageRef: /pages/recombinant-dna/basic-mechanics-of-cloning
+  parent: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
+  weight: 280
+- identifier: 52ce97d0-21cf-6f78-01e8-55ec0de2a3aa
+  name: Constructing and Screening a Recombinant DNA Library
+  pageRef: /pages/recombinant-dna/constructing-and-screening-a-recombinant-dna-library
+  parent: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
+  weight: 290
+- identifier: ea56404f-54a8-7d1d-4cf2-1c7a12786b51
+  name: cDNA Libraries and Expression Libraries
+  pageRef: /pages/recombinant-dna/cdna-libraries-and-expression-libraries
+  parent: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
+  weight: 300
+- identifier: fba42aaa-936f-9894-51b5-9a8798c9d7a0
+  name: Agarose Gel Electrophoresis, DNA Sequencing, PCR
+  pageRef: /pages/recombinant-dna/agarose-gel-electrophoresis-dna-sequencing-pcr
+  parent: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
+  weight: 310
+- identifier: ed024195-afd9-3012-8dae-c1f0592fe634
+  name: Exam 4
+  pageRef: /pages/recombinant-dna/exam-4
+  parent: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
+  weight: 320
+- identifier: 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 330
